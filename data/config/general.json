@@ -3,7 +3,7 @@
 	"functionbuttoncolor": "#00efcb",
 	"latchcolor": "#fe0149",
 	"background": "#000000",
-	"sleepenable": true,
+	"sleepenable": false,
 	"sleeptimer": 10,
 	"beep": true,
 	"modifier1": 130,
